@@ -1,0 +1,5 @@
+{
+    "phpserver.port": 3000,
+    "phpserver.phpConfigPath": "/opt/lampp/bin/php",
+    "phpserver.phpPath": "/opt/lampp/bin/php"
+}
